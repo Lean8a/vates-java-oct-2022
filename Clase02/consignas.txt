@@ -1,0 +1,9 @@
+1) Modificar la calculadora para que ingrese los datos desde un archivo de texto.
+
+2) Ingresar las coordenadas de un punto en el plano, informar el cuadrante o eje en que el punto se encuentra.
+
+3) Ingresar números enteros (fin con 0). Luego de la carga informar:
+- Cantidad de positivos
+- Promedio de todos
+- Mayor de todos
+
