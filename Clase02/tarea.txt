@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 1) Crear un programa que ingrese por teclado cuatro números enteros.
-=======
-- Crear un programa que ingrese por teclado cuatro números enteros.
->>>>>>> refs/remotes/origin/main
 Luego de la carga calcule e informe:
     - Suma de los cuatro números.
     - Producto de los dos primeros y producto de los dos últimos.
@@ -17,11 +13,7 @@ Casos de prueba:
 235 878 234 75: 1422 206330 17550 11.76 Si
 
 
-<<<<<<< HEAD
 2) Cargar números desde el archivo numeros.txt. Calcular e informar:
-=======
-Cargar números desde el archivo numeros.txt. Calcular e informar:
->>>>>>> refs/remotes/origin/main
 - Suma de todos
 - Promedio de todos
 - Menor
@@ -29,29 +21,12 @@ Cargar números desde el archivo numeros.txt. Calcular e informar:
 - Cantidad de números por cada dígito en que termine. Cuantos terminan con 0, cuántos con 1, etc.
 
 
-<<<<<<< HEAD
 3) Del archivo personas2.txt imprimir documento y edad de la persona de mayor y menor edad respectivamente (no usar POO).
 En el archivo hay una línea por cada persona y cada una contiene separados por comas los siguientes datos:
 - documento
 - nombre
 - apellido
-=======
-Del archivo personas.txt imprimir documento y edad de la persona de mayor y menor edad respectivamente.
-En el archivo hay una línea por cada persona y cada una contiene separados por comas los siguientes datos:
-- documento
-- nombre
->>>>>>> refs/remotes/origin/main
 - edad
-
-
-
-
-
-
-
-
-
-
 
 
 
