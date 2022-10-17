@@ -1,0 +1,7 @@
+1) Crear una clase Persona. Cargar todos los datos del archivo personas2.txt e informar los datos de las personas de mayor y menor edad respectivamente. Crear una instancia por cada línea del archivo.
+
+2) Crear una clase Punto que represente un punto en el plano. Agregarle los siguientes métodos:
+- Constructor con parámetros.
+- Cuadrante
+- Distancia al origen.
+
