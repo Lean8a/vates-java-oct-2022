@@ -1,0 +1,6 @@
+1) Cargar el archivo de codigos postales en tres listas diferentes, una por cada provincia. 
+Finalizada la carga informar la cantidad de códigos ingresados en cada provincia.
+Luego ofrecerle al usuario realizar las siguientes búsquedas:
+- Localidades ingresando parte del nombre y la letra de la provincia.
+- Localidades ingresando el número del codigo y la letra de la provincia.
+- Localidades ingresando parte del nombre pero buscando en las tres provincias.
