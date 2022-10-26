@@ -1,0 +1,4 @@
+1) Del ejercicio de los empleados agregar un metodo que devuelva un ArrayList de empleados pero ordenado por nombre. 
+
+2) Del ejercicio de la carga de personas (Plantel de la clase 4), agregar un método que devuelva un arraylist de personas ordenadas por apellido y nombre. Es decir que todas las personas que tengan el mismo apellido deben estar juntas pero ordenadas entre sí por nombre. 
+
