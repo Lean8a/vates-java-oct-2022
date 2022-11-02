@@ -1,0 +1,19 @@
+Desarrollar un simulador de jugadas del Quini 6.
+
+Parte 1:
+Cada jugada consiste en un conjunto de 6 números diferentes elegidos en el rango 1 a 36 inclusive.
+
+Hacer un programa que permita registrar todas las apuestas (generadas al azar). 
+El diseño de las clases debe:
+- rechazar las apuestas con números repetidos.
+- almacenar los números de cada apuesta en una estructura de datos adecuada.
+- almacenar todas las apuestas en alguna estructura de datos adecuada.
+
+Parte 2:
+Agregar a la parte 1 la simulación del juego.
+El diseño de clases debe permitir:
+- Agregar los números sorteados de a uno (a medida que son obtenidos al azar), recordando que pueden ser más de 6.
+- Informar la lista de las apuestas ganadoras.
+- Informar la cantidad de apuestas con 6, 5, 4, etc. aciertos.
+- Dado un número de apuesta, retornar todo el objeto apuesta.
+- Dado un número de apuesta, retornar la cantidad de aciertos de la misma.
