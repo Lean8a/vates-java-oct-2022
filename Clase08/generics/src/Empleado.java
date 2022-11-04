@@ -1,9 +1,8 @@
+public class Empleado implements Comparable<Empleado>{
 
-public class Empleado {
-
-    protected int legajo;
-    protected String nombre;
-    protected float sueldoBasico;
+    private int legajo;
+    private String nombre;
+    private float sueldoBasico;
 
     public Empleado() {
     }
@@ -38,12 +37,14 @@ public class Empleado {
         this.sueldoBasico = sueldoBasico;
     }
 
-    public float getSueldoNeto() {
-        return 0;
+
+    @Override
+    public int compareTo(Empleado o) {
+        return this.legajo - o.legajo;
     }
 
     @Override
     public String toString() {
-        return String.format("%3d %-30s $ %8.2f", legajo, nombre, sueldoBasico);
+        return String.format("%4d %-15s %8.2f", legajo, nombre, sueldoBasico);
     }
 }

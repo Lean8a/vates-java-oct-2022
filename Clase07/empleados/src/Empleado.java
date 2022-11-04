@@ -1,5 +1,4 @@
-
-public class Empleado {
+public abstract class Empleado {
 
     protected int legajo;
     protected String nombre;
@@ -38,9 +37,7 @@ public class Empleado {
         this.sueldoBasico = sueldoBasico;
     }
 
-    public float getSueldoNeto() {
-        return 0;
-    }
+    public abstract float getSueldoNeto();
 
     @Override
     public String toString() {

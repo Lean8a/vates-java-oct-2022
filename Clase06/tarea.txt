@@ -1,0 +1,11 @@
+1) Agregar una clase ListaEmpleados que permita almacenar un conjunto de empleados. La misma debe poseer un método para agregar un objeto de tipo Empleado.
+
+2) Desarrollar un programa que lea un conjunto de empleados desde el archivo de texto empleados.csv y luego informe:
+   - El total a pagar en sueldos para cada tipo de empleados
+   - El total general.
+   - Todos los datos del empleado que menos cobra.
+   - Promedio de sueldos de los obreros.
+En el archivo cada empleado tiene asignado el tipo con un número: 1) obrero, 2) administrativo y 3) vendedor.
+Cada uno de los reportes debe estar calculado con un método en la clase ListaEmpleados.
+
+

@@ -1,0 +1,6 @@
+1) Un comercio de electrodomésticos tiene locales a la calle y también un sitio web para ecommerce.
+De cada cliente conoce codigo y nombre, mientras que de los clientes de local conoce codigo, nombre y sucursal preferida y de los clientes de internet codigo, nombre, email y domicilio.
+Diseñar las clases necesarias para representar los clientes, identificando relaciones de herencia.
+En un programa crear instancias de los tres tipos de clientes y mostrar sus datos por pantalla.
+
+2) Al programa anterior agregarle un arraylist de clientes con los tres objetos y mostrar el contenido del arraylist.

@@ -19,4 +19,5 @@ public class Vendedor extends Empleado {
     public String toString() {
         return String.format("%3d %-30s $ %8.2f - Ventas: %9.2f - Sueldo a cobrar: %8.2f", legajo, nombre, sueldoBasico, totalVentas, getSueldoNeto());
     }
+
 }
