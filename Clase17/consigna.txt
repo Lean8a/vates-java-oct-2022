@@ -1,0 +1,5 @@
+1) Modificar el PersonasRepositorio para que inicie con las personas guardadas en el archivo personas.txt
+2) Agregar endpoints para:
+	- Buscar por apellido
+	- Buscar en un rango de edades
+3) Investigar como hacer que en el json de las personas no se incluya la coleccion de teléfonos y de télefonos móviles.
